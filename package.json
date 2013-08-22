@@ -1,0 +1,26 @@
+{
+  "name": "vengit",
+  "version": "0.0.2",
+  "description": "a sample node.js app for heroku",
+  "main": "venkat1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "~3.3.4"
+  },
+  "engines": {
+    "node": "0.10.13",
+    "npm": "1.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Venkateshwaran/vengit"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "author": "Venkateshwaran",
+  "license": "MIT",
+}
